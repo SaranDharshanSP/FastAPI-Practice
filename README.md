@@ -1,6 +1,6 @@
 # FastAPI Practice
 
-![FastAPI Practice Docs Example]()
+![FastAPI Practice Docs Example](https://github.com/SaranDharshanSP/FastAPI-Practice/blob/main/fastapi-student%20-structure.png)
 
 A simple implementation of FastAPI in Python using CRUD operations.
 
